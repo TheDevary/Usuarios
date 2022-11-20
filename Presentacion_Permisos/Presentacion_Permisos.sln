@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentacion_Permisos", "Presentacion_Permisos\Presentacion_Permisos.csproj", "{ABCBC37E-2767-416B-A892-53900D41C0F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABCBC37E-2767-416B-A892-53900D41C0F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABCBC37E-2767-416B-A892-53900D41C0F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABCBC37E-2767-416B-A892-53900D41C0F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABCBC37E-2767-416B-A892-53900D41C0F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF845BA1-22F2-44FD-922C-9C8DF7C7F936}
+	EndGlobalSection
+EndGlobal
